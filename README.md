@@ -1,4 +1,5 @@
-## Hi there 👋
+![Alt-Text](Banner.jpg)
+![Beschreibung des Bildes](Banner.jpg)
 
 My name is Niklas, I am currently studying Economics at Justus-Liebig-University in Gießen, Germany.
 
