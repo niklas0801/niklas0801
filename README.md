@@ -1,4 +1,3 @@
-![Alt-Text](Banner_GitHub.png)
 ![Beschreibung des Bildes](Banner_GitHub.png)
 
 My name is Niklas, I am currently studying Economics at Justus-Liebig-University in Gießen, Germany.
