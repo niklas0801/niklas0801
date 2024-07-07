@@ -6,4 +6,4 @@ I am currently learning Data Science with Python and want to tap into Machine Le
 I also use LaTeX for writing documents for university and projects outside of university.
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=niklas0801)](https://github.com/anuraghazra/github-readme-stats)
+![Niklas' GitHub stats](https://github-readme-stats.vercel.app/api?username=niklas0801&show_icons=true&theme=transparent)
