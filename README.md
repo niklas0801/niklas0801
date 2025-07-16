@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMatlab_Logo.png&psig=AOvVaw319E6Y3H6LY1GjvjTN91MZ&ust=1752751474183000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjcypqiwY4DFQAAAAAdAAAAABAM)" height="40" alt="latex logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="latex logo"  />
   <img width="12" />
 </div>
 
