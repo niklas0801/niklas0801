@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 Economics student<br>👨🏻‍💻 currently learning: Data Science with Python<br>🔮 future projects: Machine Learning</p>
+<p align="left">👨🏻‍🎓 Economics student<br>👨🏻‍💻 currently learning: Matlab<br>🔮 future projects: DSGE-Models</p>
 
 ###
 
