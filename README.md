@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Niklas and I'm an economics student from Gießen, Germany. <br>On my GitHub-profile, you will find current projects I am working on and past work that is all stored in my repositories. <br>Feel free to check them out!</p>
+<p align="left">My name is Niklas and I'm an economics student at Goethe-University in Frankfurt, Germany. <br>On my GitHub-profile, you will find current projects I am working on and past work that is all stored in my repositories. <br>Feel free to check them out!</p>
 
 ###
 
